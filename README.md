@@ -6,8 +6,8 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xibsx&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naeemul-online&theme=github" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naeemul-online&theme=github" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xibsx&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xibsx&theme=github" />
   </picture>
 </div>
 
